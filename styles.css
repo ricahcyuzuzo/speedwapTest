@@ -1,0 +1,9 @@
+#container{
+    width: 60%;
+    height: 450px;
+    border-radius: 20px;
+    border-width: 2;
+    background-color: #aee4ce;
+    margin: auto;
+    margin-top: 80px;
+}
